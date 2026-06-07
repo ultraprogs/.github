@@ -1,4 +1,4 @@
-<div align="center"><img src="SP.png" width=150><h1>ШедевроПрограммисты</h1></div>
+<div align="center"><img src="bannersp.png"><h1>ШедевроПрограммисты</h1></div>
 
 
 # 🙋‍♀️ Кто мы и наша цель
